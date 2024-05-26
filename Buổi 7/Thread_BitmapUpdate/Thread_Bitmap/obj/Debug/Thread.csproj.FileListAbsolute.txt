@@ -1,0 +1,20 @@
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.exe.config
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.exe
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.pdb
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csprojAssemblyReference.cache
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.Form1.resources
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.Properties.Resources.resources
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csproj.GenerateResource.cache
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.exe
+C:\Users\CTTHANH\source\repos\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.pdb
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.exe.config
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.exe
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\bin\Debug\Thread_Bitmap.pdb
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csproj.AssemblyReference.cache
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.Form1.resources
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.Properties.Resources.resources
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csproj.GenerateResource.cache
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.exe
+D:\Học tập\Bài Tập\HĐH\Buổi 7\Thread_Bitmap\Thread_Bitmap\obj\Debug\Thread_Bitmap.pdb
